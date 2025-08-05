@@ -2,7 +2,7 @@ import React from 'react'
 import './Descriptionbox.css'
 const Descriptionbox = () => {
   return (
-    <div classnName = 'descriptionbox'>
+    <div className = 'descriptionbox'>
       <div className="descriptionbox-navigator">
         <div className="descriptionbox-nav-box">Return Policy</div>
         <div className = 'descriptionbox-nav-box fade'>Reviews (73)</div>
